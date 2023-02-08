@@ -1,0 +1,6 @@
+<view class="page-body">
+  <view class="page-section page-section-gap">
+    <h1>First Page</h1>
+    <button bindtap="test">Test</button>
+  </view>
+</view>

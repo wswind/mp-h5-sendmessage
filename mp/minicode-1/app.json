@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "first/first",
+    "index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "navigationBarTitleText": "web-view",
+    "navigationBarTextStyle":"black"
+  }
+}

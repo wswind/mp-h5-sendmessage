@@ -1,0 +1,3 @@
+<view class="page-body">
+  <web-view bindmessage="handleGetMessage" src="http://localhost:5139/home/test"></web-view>
+</view>
